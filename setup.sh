@@ -1,0 +1,1 @@
+export KERAS_BACKEND="plaidml.keras.backend"
